@@ -38,10 +38,6 @@ $ git commit -m "이성진 1주차"
 #### 6. 과제를 레포로 push해주세요.
 
 ```
-// 처음 repo로 push할 시
-$ git push --set-upstream origin week1/seongjin
-
-// 이전에 push한 적이 있을 때
 $ git push
 ```
 
